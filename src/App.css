@@ -1,0 +1,22 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  background-color: #87bde4;
+}
+.App {
+  .buttons{
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+    gap: 5px;
+    cursor: pointer;
+    button{
+      background-color: #e48787;
+      border: none;
+      padding: 5px;
+      border-radius: 10px;  
+    }
+    
+  }
+    
+}
