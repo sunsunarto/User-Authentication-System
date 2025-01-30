@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+the first thing you need to install the vite, formik yup and json server
+vite: npm install vite@latest 
+      then name the file than the code choose JavaScript
+formik yup: npm i formik yup
+json server: 
+ then you run:  npm install -g json-server
+ react vite= npm run dev
+ json server: npx json-server --watch jsonFileName 
